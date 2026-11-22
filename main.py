@@ -10,7 +10,11 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import sqlite3
 from pathlib import Path
-
+from flask import Flask
+app = Flask(__name__)
+@app.route("/")
+def home():
+    return df.to_html()
 
 # 2. Load Dataset
 
