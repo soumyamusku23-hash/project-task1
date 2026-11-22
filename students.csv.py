@@ -1,0 +1,11 @@
+student_name,gender,subject,attendance,marks
+Soumya,Female,Python,90,85
+Soumya,Female,SQL,90,78
+Rahul,Male,Python,80,65
+Rahul,Male,SQL,80,70
+Priya,Female,Python,95,92
+Priya,Female,SQL,95,88
+Arjun,Male,Python,60,55
+Arjun,Male,SQL,60,58
+Sneha,Female,Python,85,80
+Sneha,Female,SQL,85,75
